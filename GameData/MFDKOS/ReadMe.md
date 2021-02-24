@@ -1,4 +1,4 @@
-// this is a modified MFD based on JSI rasterprop and  ASSET prop By alexustas (waiting for permission)
+// this is a modified MFD based on JSI rasterprop and  ASSET prop By alexustas (waiting for permission to release)
 
 Kos Prop Monitor Special MFD
 ----------------------------
